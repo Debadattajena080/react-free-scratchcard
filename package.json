@@ -1,6 +1,6 @@
 {
   "name": "react-free-scratchcard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable scratch card component for React with random rewards support",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -17,23 +17,16 @@
     "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
   },
   "dependencies": {
-    "prop-types": "^15.8.1",
-    "react-free-scratchcard": "^1.0.0"
+    "prop-types": "^15.8.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.28.0",
     "@babel/core": "^7.28.0",
     "@babel/preset-env": "^7.28.0",
     "@babel/preset-react": "^7.27.1",
-    "@testing-library/jest-dom": "^6.6.3",
-    "@testing-library/react": "^16.3.0",
-    "@testing-library/user-event": "^13.5.0",
-    "cross-env": "^7.0.3",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
-    "react-scripts": "5.0.1",
     "rimraf": "^6.0.1",
-    "web-vitals": "^2.1.4"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "keywords": [
     "react",

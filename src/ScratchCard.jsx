@@ -1,5 +1,6 @@
 import React, { useRef, useEffect, useState } from "react";
 import PropTypes from "prop-types";
+import "./scratchcard.css";
 
 const ScratchCard = ({
   scratchImage,
