@@ -1,6 +1,6 @@
 {
   "name": "react-free-scratchcard",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A customizable scratch card component for React with random rewards support",
   "main": "dist/index.js",
   "module": "dist/index.js",
