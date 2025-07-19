@@ -1,0 +1,39 @@
+# Source files (not needed in published package)
+src/
+__tests__/
+
+# Development configuration files
+.babelrc
+.eslintrc
+.gitignore
+.npmignore
+.prettierrc
+.editorconfig
+
+# Build system files
+webpack.config.js
+rollup.config.js
+jest.config.js
+
+# Documentation (if you have separate docs)
+docs/
+examples/
+
+# Environment files
+.env
+.env.local
+
+# CI/CD files (unless needed for installation)
+.github/
+.gitlab-ci.yml
+.travis.yml
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
